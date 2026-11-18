@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Circular gradient background for the large Connect button. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <gradient
+        android:type="linear"
+        android:angle="135"
+        android:startColor="@color/accent_blue"
+        android:centerColor="@color/deep_blue"
+        android:endColor="@color/purple" />
+</shape>

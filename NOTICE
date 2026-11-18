@@ -1,0 +1,28 @@
+SP VPN — NOTICE
+
+SP VPN is built on the following open-source projects. Their original
+licenses and attributions are preserved here.
+
+1. BongoVPN
+   Copyright 2026 Bongo Tech (Jubayer Hossain / Bongo iOTech Ltd)
+   Licensed under the Apache License, Version 2.0.
+   Source: https://github.com/bongotech-ai/bongovpn
+   Library: ai.bongotech:bongovpn:1.0.3 (Maven Central)
+   The upstream repository states Apache 2.0 in its README (no LICENSE
+   file is present in the upstream repo). The bundled japan.ovpn sample
+   configuration and the VPNGate public credentials (vpn / vpn) come from
+   that upstream sample.
+
+2. ics-openvpn
+   BongoVPN is based on ics-openvpn (Copyright the ics-openvpn authors),
+   licensed under the Apache License, Version 2.0.
+   Source: https://github.com/schwabe/ics-openvpn
+
+3. Android Open Source Project sample code
+   The shield vector path used for the SP VPN logo is adapted from an
+   AOSP shield icon, Apache License 2.0.
+
+SP VPN's own custom code (UI, server import, settings, DNS handling,
+auto-reconnect) is released under the Apache License, Version 2.0.
+A copy of the license is available at:
+https://www.apache.org/licenses/LICENSE-2.0

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="server_card_bg_color">#141B3D</color>
+    <color name="card_bg">#141B3D</color>
+    <color name="card_stroke">#2A3560</color>
+</resources>
